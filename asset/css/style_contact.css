@@ -1,0 +1,128 @@
+/*------------960 Grid---------*/
+*{
+	box-sizing:border-box;
+	 
+	
+	    
+}
+.cname{
+	   background-color:#5D6D7E   ;    
+	   height:220px;
+	   font-size:70px;
+	   text-align:center;
+	   padding-top:80px;
+	   color: #5D6D7E;
+	    box-shadow:0px 0px 5px 1px #B2BABB;
+		 background-image: radial-gradient(white,#85C1E9);
+	   
+}
+.menu{
+	background-color: #5DADE2 ;
+	height:50px;
+	margin-top:5px;
+	padding-top:15px;
+     text-align:center;
+     color:black;
+ 
+}
+.menu a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+	font-weight:bold;
+	display:block;
+	font-family: 'PT Serif', serif;
+	 
+	
+}
+.banner{
+	height:300px;
+	width:940px;
+	 box-shadow:0px 0px 5px 1px #B2BABB;
+}
+.section{
+	  background-color:red;
+	  text-align:center;
+	  height:50px;
+	  color:black;
+	  font-size:25px;
+	  padding-left:40px;
+	  padding-top:5px;
+	  text-decoration:underline;
+	  margin-top:8px;
+	  font-weight:bold;
+	 font-family: 'PT Serif', serif;
+	   box-shadow:0px 0px 5px 1px #B2BABB;
+	   background-image: radial-gradient(white,  #5DADE2);
+	  
+	
+}
+.menu_item{
+	background-color:red;
+	  height:390px;
+	  color:black;
+	  font-size:25px;
+	  margin-top:8px;
+	
+	  
+	  margin-top:8px;
+	  font-weight:bold;
+	 font-family: 'PT Serif', serif;
+	  transition-property;transform;
+	  box-shadow:0px 0px 5px 1px #B2BABB;
+	  background-image: radial-gradient(white,  #5DADE2);
+	  border: 1px solid #f1f1f1;
+	  
+	  
+	 }
+	 
+	 
+	button{
+		border:0px;
+		border-style:solid;
+		border-width:1px;
+		background-color:  #5DADE2;
+	    color:black;
+	}
+	
+	
+	button ,a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+	/*font-weight:bold;*/
+	display:block;
+	font-family: 'PT Serif', serif;
+	
+}
+.footer{
+		background-color:#1CC2EE  ;    
+	   height:200px;
+	   font-size:18px;
+	   text-align:center;
+	   padding-top:15px;
+	color:black;
+	background-image: radial-gradient(white, #85C1E9);
+	}
+input{
+		background-color:#5DADE2 ;
+  color: black;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  padding: 10px 16px;
+  width: 100%;
+  opacity: 0.9;
+	}
+	
+
+
+
+
+
+
+
+	  
+	  
+	  
+	  
